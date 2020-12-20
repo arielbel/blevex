@@ -3,7 +3,7 @@ module github.com/blevesearch/blevex
 go 1.15
 
 require (
-	github.com/blevesearch/bleve v1.0.14
+	github.com/arielbel/bleve v1.0.1
 	github.com/blevesearch/cld2 v0.0.0-20200327141045-8b5f551d37f5
 	github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
